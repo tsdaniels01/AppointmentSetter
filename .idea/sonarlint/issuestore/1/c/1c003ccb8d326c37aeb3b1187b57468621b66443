@@ -1,0 +1,51 @@
+
+G
+java:S1444'",Make this "public static eAlert" field final(Üï™Šûÿÿÿÿ
+h
+java:S1192)"MDefine a constant instead of duplicating this literal "Error Dialog" 4 times.(ÔÒíÛøÿÿÿÿ
+m
+java:S1104'"RMake eAlert a static final constant or non-public and provide accessors if needed.(Üï™Šûÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'utilities.PropertyTypes'.(ï¦©—
+J
+java:S1611'"/Remove the parentheses around the "s" parameter(Üï™Šûÿÿÿÿ
+K
+java:S6212ˆ"/Declare this local variable with "var" instead.(İôà‚şÿÿÿÿ
+K
+java:S6212š"/Declare this local variable with "var" instead.(§¤¨¨şÿÿÿÿ
+C
+java:S1125ò"'Remove the unnecessary boolean literal.(áñ•¼ûÿÿÿÿ
+F
+java:S6212û"/Declare this local variable with "var" instead.(ú™©‘
+K
+java:S6212¹"/Declare this local variable with "var" instead.(›‚–øÿÿÿÿ
+F
+java:S6212¾"/Declare this local variable with "var" instead.(Â¾—º
+K
+java:S6212Á"/Declare this local variable with "var" instead.(®´şùÿÿÿÿ
+K
+java:S6212Î"/Declare this local variable with "var" instead.(§¤¨¨şÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŸÍı–ıÿÿÿÿ
+F
+java:S6212€"/Declare this local variable with "var" instead.(øË¿
+F
+java:S6212‹"/Declare this local variable with "var" instead.(øË¿
+F
+java:S6212•"/Declare this local variable with "var" instead.(­¿¶
+F
+java:S6212˜"/Declare this local variable with "var" instead.(øË¿
+K
+java:S6212Í"/Declare this local variable with "var" instead.(­òáıÿÿÿÿ
+K
+java:S6212Î"/Declare this local variable with "var" instead.(õÈ÷Óÿÿÿÿÿ
+K
+java:S6212Ï"/Declare this local variable with "var" instead.(×áìşÿÿÿÿ
+:
+java:S2119Ï"Save and re-use this "Random".(×áìşÿÿÿÿ
+K
+java:S6212Ò"/Declare this local variable with "var" instead.(‚®¥éşÿÿÿÿ
+F
+java:S1481"/Remove this unused "createDate" local variable.(‡ó‚‚
+K
+java:S1481"/Remove this unused "lastUpdate" local variable.(‹ „öıÿÿÿÿ

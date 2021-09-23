@@ -1,0 +1,15 @@
+
+S
+java:S1444%"=Make this "public static allCustomerAppointments" field final(ÊÈ§«
+`
+java:S1444'"EMake this "public static allFilteredCustomerAppointments" field final(’‡®Ÿüÿÿÿÿ
+y
+java:S1104%"cMake allCustomerAppointments a static final constant or non-public and provide accessors if needed.(ÊÈ§«
+†
+java:S1104'"kMake allFilteredCustomerAppointments a static final constant or non-public and provide accessors if needed.(’‡®Ÿüÿÿÿÿ
+X
+java:S1128";Remove this unused import 'dbCalls.DBCustomerAppointments'.(¾¥ùª8«ç“ó¶/
+3
+java:S2386%"Make this member "protected".(ÊÈ§«
+8
+java:S2386'"Make this member "protected".(’‡®Ÿüÿÿÿÿ

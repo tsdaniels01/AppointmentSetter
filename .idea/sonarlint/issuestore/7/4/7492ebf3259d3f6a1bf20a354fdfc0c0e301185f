@@ -1,0 +1,41 @@
+
+h
+java:S1192T"MDefine a constant instead of duplicating this literal "Error Dialog" 4 times.(ôËö·úÿÿÿÿ
+r
+java:S1192N"\Define a constant instead of duplicating this literal "BoÃ®te de dialogue d'erreur" 4 times.(°º€£
+M
+java:S1153Ñ"1Directly append the argument of String.valueOf().(ïìÎ°úÿÿÿÿ
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(…¹á³
+E
+java:S6212M"/Declare this local variable with "var" instead.(øË¿
+E
+java:S6212S"/Declare this local variable with "var" instead.(øË¿
+E
+java:S6212^"/Declare this local variable with "var" instead.(øË¿
+E
+java:S6212c"/Declare this local variable with "var" instead.(øË¿
+=
+java:S1125j"'Remove the unnecessary boolean literal.(¢óãØ
+E
+java:S6212m"/Declare this local variable with "var" instead.(øË¿
+E
+java:S6212t"/Declare this local variable with "var" instead.(øË¿
+K
+java:S6212…"/Declare this local variable with "var" instead.(Ö×Íõÿÿÿÿÿ
+K
+java:S6212Š"/Declare this local variable with "var" instead.(Ö×Íõÿÿÿÿÿ
+K
+java:S6212”"/Declare this local variable with "var" instead.(Ö×Íõÿÿÿÿÿ
+K
+java:S6212œ"/Declare this local variable with "var" instead.(Ö×Íõÿÿÿÿÿ
+F
+java:S6212¯"/Declare this local variable with "var" instead.(øË¿
+F
+java:S6212¶"/Declare this local variable with "var" instead.(øË¿
+Q
+java:S1854Ö":Remove this useless assignment to local variable "bundle".(ùÆÖÕ
+F
+java:S6212Ö"/Declare this local variable with "var" instead.(ùÆÖÕ
+B
+java:S1481Ö"+Remove this unused "bundle" local variable.(ùÆÖÕ

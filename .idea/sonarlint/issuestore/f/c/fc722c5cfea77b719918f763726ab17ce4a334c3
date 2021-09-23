@@ -1,0 +1,99 @@
+
+E
+java:S1444"*Make this "public static date" field final(¼÷´Èşÿÿÿÿ
+k
+java:S1104"PMake date a static final constant or non-public and provide accessors if needed.(¼÷´Èşÿÿÿÿ
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "startTime".(íÔã¯úÿÿÿÿ
+}
+java:S14883"bImmediately return this expression instead of assigning it to the temporary variable "convertUTC".(™Öë„ÿÿÿÿÿ
+
+java:S1488L"fImmediately return this expression instead of assigning it to the temporary variable "convertDefault".(ä±ƒ™ûÿÿÿÿ
+q
+java:S1488a"[Immediately return this expression instead of assigning it to the temporary variable "est".(¯Ø“ƒ
+t
+java:S1488t"^Immediately return this expression instead of assigning it to the temporary variable "getUTC".(ÁŒ·á
+
+java:S1488…"eImmediately return this expression instead of assigning it to the temporary variable "localDateTime".(ØçÛøÿÿÿÿ
+v
+java:S1488§"ZImmediately return this expression instead of assigning it to the temporary variable "ld".(¡€»±ùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ğ÷€—
+J
+java:S1611"/Remove the parentheses around the "d" parameter(¼÷´Èşÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(óø‘u
+J
+java:S6212"/Declare this local variable with "var" instead.(íÔã¯úÿÿÿÿ
+J
+java:S6212&"/Declare this local variable with "var" instead.(¹‚ääùÿÿÿÿ
+J
+java:S6212("/Declare this local variable with "var" instead.(‹¸ÇÏüÿÿÿÿ
+J
+java:S6212*"/Declare this local variable with "var" instead.(Ä ‘¥şÿÿÿÿ
+E
+java:S6212,"/Declare this local variable with "var" instead.(Ùıó„
+D
+java:S6212."/Declare this local variable with "var" instead.(è’¿v
+J
+java:S62120"/Declare this local variable with "var" instead.(íŞîÃùÿÿÿÿ
+E
+java:S62122"/Declare this local variable with "var" instead.(Ÿ‹Ÿ
+J
+java:S6212@"/Declare this local variable with "var" instead.(Ä ‘¥şÿÿÿÿ
+J
+java:S6212B"/Declare this local variable with "var" instead.(Ö¥ŒËÿÿÿÿÿ
+J
+java:S6212D"/Declare this local variable with "var" instead.(¹‚ääùÿÿÿÿ
+J
+java:S6212F"/Declare this local variable with "var" instead.(Ş¹Úúÿÿÿÿ
+E
+java:S6212H"/Declare this local variable with "var" instead.(‚õ™ã
+E
+java:S6212I"/Declare this local variable with "var" instead.(“Œø
+J
+java:S6212J"/Declare this local variable with "var" instead.(ÖÍ¶ßşÿÿÿÿ
+J
+java:S6212Y"/Declare this local variable with "var" instead.(¹‚ääùÿÿÿÿ
+J
+java:S6212["/Declare this local variable with "var" instead.(‹¸ÇÏüÿÿÿÿ
+E
+java:S6212]"/Declare this local variable with "var" instead.(‘‰°¨
+E
+java:S6212_"/Declare this local variable with "var" instead.(‚˜š
+E
+java:S6212a"/Declare this local variable with "var" instead.(¯Ø“ƒ
+E
+java:S6212l"/Declare this local variable with "var" instead.(¤¾ğ¦
+J
+java:S6212n"/Declare this local variable with "var" instead.(ÊÛê•ÿÿÿÿÿ
+J
+java:S6212p"/Declare this local variable with "var" instead.(µë—Àøÿÿÿÿ
+J
+java:S6212r"/Declare this local variable with "var" instead.(ØçÛøÿÿÿÿ
+E
+java:S6212t"/Declare this local variable with "var" instead.(ÁŒ·á
+E
+java:S6212"/Declare this local variable with "var" instead.(¤¾ğ¦
+K
+java:S6212"/Declare this local variable with "var" instead.(ÊÛê•ÿÿÿÿÿ
+K
+java:S6212ƒ"/Declare this local variable with "var" instead.(µë—Àøÿÿÿÿ
+K
+java:S6212…"/Declare this local variable with "var" instead.(ØçÛøÿÿÿÿ
+F
+java:S6212‘"/Declare this local variable with "var" instead.(Œ‹ºî
+K
+java:S6212’"/Declare this local variable with "var" instead.(ïÁòüÿÿÿÿ
+F
+java:S6212“"/Declare this local variable with "var" instead.(ÙóËõ
+E
+java:S6212•"/Declare this local variable with "var" instead.(É´
+K
+java:S6212—"/Declare this local variable with "var" instead.(’ó¨“ùÿÿÿÿ
+]
+java:S1126˜"AReplace this if-then-else statement by a single return statement.(ØÎïùıÿÿÿÿ
+K
+java:S6212§"/Declare this local variable with "var" instead.(¡€»±ùÿÿÿÿ
+c
+java:S1871¼"MThis branch's code block is the same as the block for the branch on line 184.(©Ü†7

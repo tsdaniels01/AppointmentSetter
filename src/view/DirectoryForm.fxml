@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="450.0" prefWidth="350.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.DirectoryFormController">
+   <children>
+      <Pane layoutX="12.5" layoutY="12.5" prefHeight="425.0" prefWidth="325.0" style="-fx-border-color: blue; -fx-border-radius: 10;">
+         <children>
+            <Label layoutX="78.0" layoutY="41.0" text="Please Select an Option:">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Button layoutX="71.0" layoutY="87.0" mnemonicParsing="false" onAction="#onActionBuyers" text="Buyers">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" left="65.0" right="65.0" top="10.0" />
+               </padding>
+            </Button>
+            <Button layoutX="71.0" layoutY="223.0" mnemonicParsing="false" onAction="#onActionAppointments" text="Appointments">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" left="35.0" right="35.0" top="10.0" />
+               </padding></Button>
+            <Button layoutX="71.0" layoutY="356.0" mnemonicParsing="false" onAction="#onActionExit" text="Exit">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" left="77.0" right="76.0" top="10.0" />
+               </padding></Button>
+            <Label layoutX="123.0" layoutY="14.0" text="Directory">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Button layoutX="71.0" layoutY="291.0" mnemonicParsing="false" onAction="#onActionReports" text="Reports">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" left="60.0" right="60.0" top="10.0" />
+               </padding>
+            </Button>
+            <Button layoutX="70.0" layoutY="155.0" mnemonicParsing="false" onAction="#onActionSellers" text="Sellers">
+               <font>
+                  <Font size="18.0" />
+               </font>
+               <padding>
+                  <Insets bottom="10.0" left="66.0" right="66.0" top="10.0" />
+               </padding>
+            </Button>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

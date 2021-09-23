@@ -1,0 +1,50 @@
+
+P
+java:S1444N"5Make this "public static allAppointments" field final(éÕØşÿÿÿÿ
+R
+java:S1444i"=Make this "public static allFilteredAppointments" field final(ŠëóD
+Y
+java:S1444s">Make this "public static allCollectedAppointments" field final(ÁãÚëûÿÿÿÿ
+W	java:S1079"BConstructor has 15 parameters, which is greater than 7 authorized.(¥âÃå
+v
+java:S1104N"[Make allAppointments a static final constant or non-public and provide accessors if needed.(éÕØşÿÿÿÿ
+x
+java:S1104i"cMake allFilteredAppointments a static final constant or non-public and provide accessors if needed.(ŠëóD
+
+java:S1104s"dMake allCollectedAppointments a static final constant or non-public and provide accessors if needed.(ÁãÚëûÿÿÿÿ
+8
+java:S2386N"Make this member "protected".(éÕØşÿÿÿÿ
+2
+java:S2386i"Make this member "protected".(ŠëóD
+8
+java:S2386s"Make this member "protected".(ÁãÚëûÿÿÿÿ
+K
+java:S6212Š"/Declare this local variable with "var" instead.(Àöà£ÿÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(ÑŒıåøÿÿÿÿ
+K
+java:S6212Ÿ"/Declare this local variable with "var" instead.(Àöà£ÿÿÿÿÿ
+K
+java:S6212ª"/Declare this local variable with "var" instead.(ÑŒıåøÿÿÿÿ
+E
+java:S6212¸"/Declare this local variable with "var" instead.(óø‘u
+E
+java:S6212º"/Declare this local variable with "var" instead.(Ê¾C
+F
+java:S6212¿"/Declare this local variable with "var" instead.(êáğç
+K
+java:S6212Á"/Declare this local variable with "var" instead.(¿ùÖ¡ıÿÿÿÿ
+E
+java:S1940Ã")Use the opposite operator ("!=") instead.(’±Ğµùÿÿÿÿ
+E
+java:S6212Ö"/Declare this local variable with "var" instead.(óø‘u
+E
+java:S6212Ø"/Declare this local variable with "var" instead.(Ê¾C
+F
+java:S6212İ"/Declare this local variable with "var" instead.(êáğç
+K
+java:S6212ß"/Declare this local variable with "var" instead.(¿ùÖ¡ıÿÿÿÿ
+E
+java:S1940á")Use the opposite operator ("!=") instead.(õ³·®úÿÿÿÿ
+K
+java:S6212Š"/Declare this local variable with "var" instead.(Üäöİùÿÿÿÿ

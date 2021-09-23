@@ -1,0 +1,19 @@
+
+H
+java:S1444("2Make this "public static allCountries" field final(·ï³£
+n
+java:S1104("XMake allCountries a static final constant or non-public and provide accessors if needed.(·ï³£
+|
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "idToName".(‘Ò²Éÿÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'dbCalls.DBCountries'.(©ÌŠß8¨ó’ó¶/
+3
+java:S2386("Make this member "protected".(·ï³£
+V	java:S125"<This block of commented-out lines of code should be removed.(èÎ ¨şÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÈÕ”¨
+V	java:S125"<This block of commented-out lines of code should be removed.(ÓÃÎÔüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÚñŞíüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ıÕŸóüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½„È­
+K
+java:S6212"/Declare this local variable with "var" instead.(‘Ò²Éÿÿÿÿÿ

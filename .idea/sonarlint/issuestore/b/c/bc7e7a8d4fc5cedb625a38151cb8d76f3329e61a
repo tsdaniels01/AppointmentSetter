@@ -1,0 +1,56 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¸ˆËøÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(êç¤:
+J
+java:S6212$"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+E
+java:S6212("/Declare this local variable with "var" instead.(ÄÛ¹¸
+J
+java:S6212+"/Declare this local variable with "var" instead.(Òâ¨úÿÿÿÿ
+E
+java:S6212,"/Declare this local variable with "var" instead.(ë“ë¦
+E
+java:S6212-"/Declare this local variable with "var" instead.(É‹§Ä
+J
+java:S6212."/Declare this local variable with "var" instead.(ËÅğªüÿÿÿÿ
+E
+java:S6212/"/Declare this local variable with "var" instead.(ÿ£‘
+J
+java:S62126"/Declare this local variable with "var" instead.(öµ«¢ûÿÿÿÿ
+E
+java:S62129"/Declare this local variable with "var" instead.(ÔùÑ
+E
+java:S6212:"/Declare this local variable with "var" instead.(ó•¤
+J
+java:S6212;"/Declare this local variable with "var" instead.(½ò·”ıÿÿÿÿ
+J
+java:S6212<"/Declare this local variable with "var" instead.(Óæñ†ûÿÿÿÿ
+E
+java:S6212="/Declare this local variable with "var" instead.(ã¼·°
+J
+java:S6212X"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+E
+java:S6212n"/Declare this local variable with "var" instead.(ê€í
+J
+java:S6212p"/Declare this local variable with "var" instead.(®æ”ÿÿÿÿÿ
+E
+java:S6212r"/Declare this local variable with "var" instead.(ê•ïô
+K
+java:S6212˜"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+K
+java:S6212š"/Declare this local variable with "var" instead.(Ò—’ñúÿÿÿÿ
+K
+java:S6212¬"/Declare this local variable with "var" instead.(‰§§‹şÿÿÿÿ
+F
+java:S6212®"/Declare this local variable with "var" instead.(Ù³øç
+F
+java:S6212°"/Declare this local variable with "var" instead.(óİ´Û
+K
+java:S6212Õ"/Declare this local variable with "var" instead.(Ô£€Èşÿÿÿÿ
+K
+java:S6212×"/Declare this local variable with "var" instead.(ãùÛ¿ÿÿÿÿÿ
+K
+java:S6212Û"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+F
+java:S6212İ"/Declare this local variable with "var" instead.(·•ÖÛ

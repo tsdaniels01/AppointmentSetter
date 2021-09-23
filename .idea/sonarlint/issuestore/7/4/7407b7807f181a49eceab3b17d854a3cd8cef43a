@@ -1,0 +1,37 @@
+
+Q
+java:S1444"6Make this "public static allCalendarWeeks" field final(Î¶“øÿÿÿÿ
+Y
+java:S1155O">Use isEmpty() to check whether the collection is empty or not.(ŸÔÔøÿÿÿÿ
+w
+java:S1104"\Make allCalendarWeeks a static final constant or non-public and provide accessors if needed.(Î¶“øÿÿÿÿ
+ƒ
+java:S1488å"`Immediately return this expression instead of assigning it to the temporary variable "allDates".(çç‰¸ûÿÿÿÿ8—÷¢¶/
+8
+java:S2386"Make this member "protected".(Î¶“øÿÿÿÿ
+K
+java:S6212Ğ"/Declare this local variable with "var" instead.(”°Ùüÿÿÿÿ
+K
+java:S6212Ò"/Declare this local variable with "var" instead.(ÏØàÙÿÿÿÿÿ
+F
+java:S6212Ó"/Declare this local variable with "var" instead.(Ï©—œ
+K
+java:S6212Ô"/Declare this local variable with "var" instead.(¢× ­ûÿÿÿÿ
+F
+java:S6212×"/Declare this local variable with "var" instead.(Ö´š¡
+K
+java:S6212Ù"/Declare this local variable with "var" instead.(Éü•æúÿÿÿÿ
+K
+java:S6212Ú"/Declare this local variable with "var" instead.(ó¡Şşÿÿÿÿ
+K
+java:S6212Û"/Declare this local variable with "var" instead.(ƒ—¸Şÿÿÿÿÿ
+K
+java:S6212Ü"/Declare this local variable with "var" instead.(ÌÖî“ÿÿÿÿÿ
+K
+java:S6212ß"/Declare this local variable with "var" instead.(áÓÚøşÿÿÿÿ
+K
+java:S6212á"/Declare this local variable with "var" instead.(å…ò¶üÿÿÿÿ
+F
+java:S6212â"/Declare this local variable with "var" instead.(øŞƒ«
+R
+java:S6212ã"/Declare this local variable with "var" instead.(½Œí¼ÿÿÿÿÿ8§÷¢¶/

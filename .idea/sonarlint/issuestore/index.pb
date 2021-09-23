@@ -1,0 +1,73 @@
+
+H
+src/view/SellerForm.fxml,c\c\ccf6f65cb5668dcfe699386d11ae517638092150
+K
+src/view/DirectoryForm.fxml,c\2\c26c7fe86b2c97f3a9a188afce1f022adeeff35a
+H
+src/utilities/Times.java,9\d\9d1b3cae81a5afc43bf9b5bd0f8c743f20441988
+N
+src/utilities/Translation.java,5\4\5441ac35f11f74569ff2f0ca9da61979b9aa14e3
+O
+src/utilities/Nat_fr.properties,7\c\7c846875df628c8bd41edfe41a5b9f6ec9dcc467
+G
+src/view/BuyerForm.fxml,7\5\75f4ff8653c2ed316236ef0ddaa82b8855691df8
+H
+src/view/ReportForm.fxml,4\d\4db69b584ec4eec579df4662d492980c36635e08
+Q
+!src/utilities/CalendarMonths.java,2\c\2c98b985d71e2f478f7cde61798e24e9965c5e1b
+M
+src/view/AppointmentForm.fxml,1\5\15a94bf720f4abb3f2bd2856ea2183cd3522b9b2
+P
+ src/utilities/PropertyTypes.java,e\1\e116fc0cf0804626753e4a96f6ae05f2ebe53d29
+L
+src/dbCalls/DBCustomers.java,8\c\8c1dc4f2dd669830c336eb023c1c87e171dc28c3
+H
+src/dbCalls/DBUsers.java,7\6\76d7ad5a364059541ef0fe341d8c22ad311a2e66
+L
+src/dbCalls/DBCountries.java,7\a\7a48b6f65041dda12938c3f0ffde99f456858210
+W
+'src/dbCalls/DBCustomerAppointments.java,9\7\97b306abddfe3b0c077a2f7d5048e48bc99891b3
+V
+&src/dbCalls/DBFirstLevelDivisions.java,2\5\250e28cd33e429ec00ce29dda2fbb87816cdba67
+J
+src/utilities/DBQuery.java,a\0\a01ca8c610d2cbd970723291894196c65bdf0cd2
+K
+src/dbCalls/DBContacts.java,2\a\2ad3afb492ebcab22971771ca314ef4446f87f3d
+H
+src/model/Countries.java,1\f\1f10c7596ec2a0eb0c2fbc9173e5367b2308718d
+R
+"src/model/FirstLevelDivisions.java,8\2\827f3edfa273626a60b2afc2b2306e1b67d44be7
+P
+ src/utilities/CalendarWeeks.java,7\4\7407b7807f181a49eceab3b17d854a3cd8cef43a
+V
+&src/utilities/DateTimeConversions.java,f\c\fc722c5cfea77b719918f763726ab17ce4a334c3
+G
+src/model/Contacts.java,d\4\d4d73472b3e598a73c50ad9b6f5cf07de64be148
+S
+#src/model/CustomerAppointments.java,7\0\7007bcb420f057c303d47f07d8bb019de0051d32
+Q
+!src/intefaces/DateFormatting.java,f\4\f4239805bf7b2cb2fe4bf35e867986eaa1020d51
+P
+ src/intefaces/Alertmessages.java,b\1\b10dafb10cc77e37ef79227e6338692067d29c16
+O
+src/dbCalls/DBAppointments.java,b\c\bc7e7a8d4fc5cedb625a38151cb8d76f3329e61a
+F
+src/model/Sellers.java,5\8\580eca534f62841f1c6fe3bbfd085d3cfc63bc8e
+D
+src/model/Users.java,c\d\cd199c72adebc759348c7b223a2790303e879d72
+W
+'src/controller/LoginFormController.java,7\4\7492ebf3259d3f6a1bf20a354fdfc0c0e301185f
+W
+'src/controller/BuyerFormController.java,8\7\874d11692350e75409f751fb4cb1a8295e1c68e0
+X
+(src/controller/SellerFormController.java,1\c\1c003ccb8d326c37aeb3b1187b57468621b66443
+[
++src/controller/DirectoryFormController.java,4\3\4306f8c0f622761e89cdb3d8485184467651e475
+K
+src/model/Appointments.java,8\1\81a8f486a271a1704c53603888a79925ad2d1d5f
+E
+src/model/Buyers.java,1\3\1338ae4b55daa318d0fa31e6250f7937290aafb1
+B
+src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
+O
+src/utilities/DBConnection.java,7\4\74a621fd1b62087dfa3e5fc631b728c74c2468df

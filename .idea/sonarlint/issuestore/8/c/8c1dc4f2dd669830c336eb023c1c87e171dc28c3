@@ -1,0 +1,46 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¸ˆËøÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'java.security.spec.ECField'.(“¢á¯
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¢îå÷øÿÿÿÿ
+J
+java:S6212-"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+E
+java:S62121"/Declare this local variable with "var" instead.(ÄÛ¹¸
+J
+java:S62124"/Declare this local variable with "var" instead.(Ìç¸ƒúÿÿÿÿ
+E
+java:S62125"/Declare this local variable with "var" instead.(ö®®æ
+J
+java:S62126"/Declare this local variable with "var" instead.(‡Øíáşÿÿÿÿ
+E
+java:S62127"/Declare this local variable with "var" instead.(ıú•½
+J
+java:S62128"/Declare this local variable with "var" instead.(¦îø£ûÿÿÿÿ
+J
+java:S6212;"/Declare this local variable with "var" instead.(¬Ùşÿÿÿÿ
+J
+java:S6212>"/Declare this local variable with "var" instead.(ÃŒÔ€ùÿÿÿÿ
+J
+java:S6212?"/Declare this local variable with "var" instead.(ç¤è°ıÿÿÿÿ
+D
+java:S6212A"/Declare this local variable with "var" instead.(ŸóÍ~
+E
+java:S6212C"/Declare this local variable with "var" instead.(ù·İ
+J
+java:S6212E"/Declare this local variable with "var" instead.(åğß¹ùÿÿÿÿ
+J
+java:S6212F"/Declare this local variable with "var" instead.(û™ó¯úÿÿÿÿ
+J
+java:S6212G"/Declare this local variable with "var" instead.(ªÆ’€ÿÿÿÿÿ
+E
+java:S6212H"/Declare this local variable with "var" instead.(ï¤—Š
+J
+java:S6212g"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+K
+java:S6212Ÿ"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
+F
+java:S6212Ø"/Declare this local variable with "var" instead.(üÒí–
+K
+java:S6212Ü"/Declare this local variable with "var" instead.(‘¤ûÿÿÿÿ
